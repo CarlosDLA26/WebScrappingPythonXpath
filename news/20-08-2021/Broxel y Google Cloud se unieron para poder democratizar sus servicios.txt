@@ -1,0 +1,30 @@
+Broxel y Google Cloud se unieron para poder democratizar sus servicios
+
+El Economista - Ciudad de México        jueves, 19 de agosto de 2021
+
+La misión es que las empresas que basan su operación en la nube puedan implementar soluciones financieras
+
+La tecnología está cubriendo lagunas que al sistema financiero tradicional le ha costado atender. De esta manera, la unión entre organizaciones que se apalancan en la tecnología comienza a ser factor para avanzar en la bancarización no sólo de México sino de América Latina (AL).
+En este contexto, Broxel, empresa especializada en tecnología en medios de pago, y
+ Cloud, plataforma que ofrece soluciones de nivel empresarial en la nube, anunciaron un acuerdo para detonar soluciones de tecnología financiera en América Latina, donde se estima que poco menos de 50% de la población adulta se encuentra bancarizada.
+“La tecnología no tiene fronteras, no tiene barreras, nos permite llevar más allá las cosas que hemos hecho… Toda la tecnología que hemos desarrollado en México, ahora, de la mano con Google Cloud, podemos ponerla a disposición de cualquier persona moral, cualquier empresa que necesite disponer de servicios y ponerse de una manera eficiente en medio de esta revolución transaccional”, comentó en entrevista Gustavo Gutiérrez, fundador y director general de Broxel.
+El reciente acuerdo entre estas dos firmas permitirá que, desde el marketplace de Google Cloud, los usuarios, que son principalmente empresas, puedan acceder a los servicios transaccionales que ofrece Broxel y así implementarlos en su operatividad diaria.
+“Buscamos democratizar el uso de la tecnología, entonces, qué mejor que hacerlo a través de empresas que han desarrollado activos digitales, como es el caso de Broxel, desarrollados para captar audiencias por medio de créditos, autorizar líneas de crédito, manejo de monederos, vales, etcétera, diferentes servicios que se pueden potencializar a través de la plataforma”, explicó Julio Velázquez, director general de 
+ Cloud en México.
+Según el acuerdo, la oferta de valor de Broxel, que estará disponible en el marketplace de Google Cloud, se centrará de manera inicial en estructurar servicios de crédito y gestión de cartera; emitir tarjetas y aperturar cuentas con los más altos estándares de seguridad; proveer una solución de identificación no presencial y ofrecer una comunicación multicanal para llegar a usuarios finales.
+Asimismo, el acuerdo permitirá que las empresas puedan acceder a soluciones de cobro 100% digitales, públicas y privadas; utilizar vales digitales que permitan dinamizar operaciones con estrictas medidas de seguridad y también podrán usar una base de conocimiento que permite la búsqueda de contenidos por etiquetas (o tags).
+“La decisión fue poner a disposición en otros horizontes los productos que tenemos... tenemos todo un mapa de acción, los equipos están trabajando intensamente para poder poner a disposición los productos que hoy resulten necesarios. Ponemos a disposición nueve productos, pero también tenemos claramente definido que estamos trabajando 24 horas en definiciones de innovaciones hacia lo que viene en materia de pagos”, indicó el directivo de Broxel.
+
+El ramo de servicios financieros, donde se desenvuelve Broxel, es un mercado muy importante para 
+, en su tarea de democratizar la tecnología y los servicios financieros.
+Ante ello, para el directivo de Google Cloud se hace imperante que, ante el contexto actual, donde la digitalización ha ganado terreno gracias a las medidas de sana distancia provocadas por la emergencia sanitaria, existan sinergias entre empresas de distintas industrias pero que tengan como base la tecnología.
+“Estamos tratando de participar en distintas industrias, la industria financiera es para nosotros muy particular porque seguimos teniendo tasas muy altas de población que no está bancarizada y entonces el impacto es social y económico por tener disponible la tecnología en nuevos modelos de negocio”.
+El directivo de Google Cloud apuntó que, en esta estrategia, Broxel será la encargada de ofrecer el servicio financiero, al cual se podrá acceder vía la plataforma y así ofrecer un conjunto de soluciones de mayor alcance.
+“No solamente se trata de traernos algunas aplicaciones a la nube, sino más bien es habilitar un modelo de negocio. Quien entrega el servicio financiero es Broxel, nosotros le ayudamos a través del marketplace, pero el modelo financiero corresponde a Broxel porque conoce a profundidad lo que el mercado necesita en materia de finanzas”, añadió Álvarez.
+
+Si bien este acuerdo tiene un alcance no sólo para México sino para la región de América Latina, ambos directivos coincidieron en que el desarrollo de productos y servicios corresponderá a la regulación de cada jurisdicción, pese a que la tecnología no tiene fronteras.
+“En cada país, tenemos que seguir las leyes, el cumplimiento que marca cada geografía, y así lo haremos con oportunidad. Lo que ya tenemos son productos, plataforma, estructura y con el soporte de Google Cloud será sumamente más robusto”, explicó Gutiérrez.
+Asimismo, el director de Broxel acotó que, en este contexto, hay soluciones que no requieren cumplir aspectos normativos, por lo que serán la base del inicio de esta relación entre ambas empresas.
+“Hay otras soluciones que tenemos y que no necesitan un cumplimiento normativo, que ya pueden suceder y es gracias a ello que podemos desde ya democratizar nuestros servicios en conjunto, no solamente para México sino para cualquier región”, detalló Gutiérrez.
+Álvarez destacó que, en la actualidad, los servicios financieros no se perciben sin el aspecto tecnológico, pues de acuerdo con distintos estudios, ocho de cada 10 puntos de contacto de la banca minorista con el cliente se dan por medios digitales.
+“Es la parte de la magia digital, que no tienes fronteras, si haces bien las cosas lo único que tienes que cuidar son aspectos regulatorios, si es que aplican, pero la tecnología y las grandes ideas se pueden replicar en distintos países”, expresó Álvarez.
