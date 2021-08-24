@@ -1,0 +1,8 @@
+Links = //div/h2[not(@class)]/a/@href
+Titulo = //div[@class = "mb-auto"]/h2/span/text()
+fecha = //div/span[@class="date"]/text()
+Resumen = //div[@class = "lead"]/p/text()
+Autor = //div[@class = "autorArticle"]/p/text()
+Contenido de noticia = //div[@class = "html-content"]/p[not(@class)]/node()
+Completar noticias con datos = //div[@class = "html-content"]/p[not(@class)]/node()/text()
+//div[@class = "html-content"]/p[not(@class)]/text()
